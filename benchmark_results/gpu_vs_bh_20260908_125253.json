@@ -1,0 +1,202 @@
+[
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 500,
+    "steps": 100,
+    "total_time_sec": 0.008065100002568215,
+    "ms_per_step": 0.08065100002568215,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 1000,
+    "steps": 100,
+    "total_time_sec": 0.01343949997681193,
+    "ms_per_step": 0.1343949997681193,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 5000,
+    "steps": 100,
+    "total_time_sec": 0.038993599999230355,
+    "ms_per_step": 0.38993599999230355,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 10000,
+    "steps": 100,
+    "total_time_sec": 0.07698050001636147,
+    "ms_per_step": 0.7698050001636147,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 20000,
+    "steps": 100,
+    "total_time_sec": 0.22712890000548214,
+    "ms_per_step": 2.2712890000548214,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 50000,
+    "steps": 100,
+    "total_time_sec": 1.0960592999763321,
+    "ms_per_step": 10.960592999763321,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 100000,
+    "steps": 10,
+    "total_time_sec": 0.3749658000015188,
+    "ms_per_step": 37.49658000015188,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 200000,
+    "steps": 10,
+    "total_time_sec": 1.3522636000125203,
+    "ms_per_step": 135.22636000125203,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 500000,
+    "steps": 10,
+    "total_time_sec": 8.18796619999921,
+    "ms_per_step": 818.796619999921,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 1000000,
+    "steps": 10,
+    "total_time_sec": 32.43516049999744,
+    "ms_per_step": 3243.5160499997437,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 500,
+    "steps": 100,
+    "total_time_sec": 0.0750875000085216,
+    "ms_per_step": 0.750875000085216,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 1000,
+    "steps": 100,
+    "total_time_sec": 0.09393070000805892,
+    "ms_per_step": 0.9393070000805892,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 5000,
+    "steps": 100,
+    "total_time_sec": 0.29682980000507087,
+    "ms_per_step": 2.9682980000507087,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 10000,
+    "steps": 100,
+    "total_time_sec": 0.5941272000200115,
+    "ms_per_step": 5.941272000200115,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 20000,
+    "steps": 100,
+    "total_time_sec": 1.163733300025342,
+    "ms_per_step": 11.63733300025342,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 50000,
+    "steps": 100,
+    "total_time_sec": 3.09301039998536,
+    "ms_per_step": 30.9301039998536,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 100000,
+    "steps": 10,
+    "total_time_sec": 0.648833100014599,
+    "ms_per_step": 64.8833100014599,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 200000,
+    "steps": 10,
+    "total_time_sec": 1.4536470000166446,
+    "ms_per_step": 145.36470000166446,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 500000,
+    "steps": 10,
+    "total_time_sec": 3.590154600009555,
+    "ms_per_step": 359.0154600009555,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 1000000,
+    "steps": 10,
+    "total_time_sec": 7.358053200005088,
+    "ms_per_step": 735.8053200005088,
+    "success": true,
+    "error": null
+  }
+]

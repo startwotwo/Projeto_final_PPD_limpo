@@ -1,0 +1,132 @@
+[
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 500,
+    "steps": 100,
+    "total_time_sec": 0.06545759999426082,
+    "ms_per_step": 0.6545759999426082,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 1000,
+    "steps": 100,
+    "total_time_sec": 0.08518419999745674,
+    "ms_per_step": 0.8518419999745674,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 5000,
+    "steps": 100,
+    "total_time_sec": 3.034067300002789,
+    "ms_per_step": 30.34067300002789,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 10000,
+    "steps": 100,
+    "total_time_sec": 3.079826700006379,
+    "ms_per_step": 30.798267000063788,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 20000,
+    "steps": 100,
+    "total_time_sec": 3.0841887000133283,
+    "ms_per_step": 30.841887000133283,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 50000,
+    "steps": 100,
+    "total_time_sec": 3.590425200003665,
+    "ms_per_step": 35.90425200003665,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 100000,
+    "steps": 10,
+    "total_time_sec": 0.3908415000187233,
+    "ms_per_step": 39.08415000187233,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 200000,
+    "steps": 10,
+    "total_time_sec": 0.4447045999986585,
+    "ms_per_step": 44.47045999986585,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 350000,
+    "steps": 10,
+    "total_time_sec": 0.551102399971569,
+    "ms_per_step": 55.110239997156896,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 500000,
+    "steps": 10,
+    "total_time_sec": 0.6388674000045285,
+    "ms_per_step": 63.886740000452846,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 1000000,
+    "steps": 3,
+    "total_time_sec": 0.271062100015115,
+    "ms_per_step": 90.35403333837166,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 2000000,
+    "steps": 3,
+    "total_time_sec": 0.4778498000232503,
+    "ms_per_step": 159.28326667441675,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 5000000,
+    "steps": 3,
+    "total_time_sec": 1.0403858000063337,
+    "ms_per_step": 346.7952666687779,
+    "success": true,
+    "error": null
+  }
+]

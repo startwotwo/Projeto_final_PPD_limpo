@@ -1,0 +1,25 @@
+# solar_real: idx | nome | label (0=Sol,1-8=planetas,9=lua,10=anao)
+   0 | Sun | 0
+   1 | Mercury | 1
+   2 | Venus | 2
+   3 | Earth | 3
+   4 | Mars | 4
+   5 | Jupiter | 5
+   6 | Saturn | 6
+   7 | Uranus | 7
+   8 | Neptune | 8
+   9 | Moon | 9
+  10 | Phobos | 9
+  11 | Deimos | 9
+  12 | Io | 9
+  13 | Europa | 9
+  14 | Ganymede | 9
+  15 | Callisto | 9
+  16 | Titan | 9
+  17 | Enceladus | 9
+  18 | Triton | 9
+  19 | Ceres | 10
+  20 | Pluto | 10
+  21 | Haumea | 10
+  22 | Makemake | 10
+  23 | Eris | 10

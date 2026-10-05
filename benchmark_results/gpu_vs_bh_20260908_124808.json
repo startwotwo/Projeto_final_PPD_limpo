@@ -1,0 +1,182 @@
+[
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 500,
+    "steps": 100,
+    "total_time_sec": 0.007315599999856204,
+    "ms_per_step": 0.07315599999856204,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 1000,
+    "steps": 100,
+    "total_time_sec": 0.011517399980220944,
+    "ms_per_step": 0.11517399980220944,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 5000,
+    "steps": 100,
+    "total_time_sec": 0.03854080001474358,
+    "ms_per_step": 0.3854080001474358,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 10000,
+    "steps": 100,
+    "total_time_sec": 0.07782229999429546,
+    "ms_per_step": 0.7782229999429546,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 20000,
+    "steps": 100,
+    "total_time_sec": 0.23892740000155754,
+    "ms_per_step": 2.3892740000155754,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 50000,
+    "steps": 100,
+    "total_time_sec": 1.0781707999994978,
+    "ms_per_step": 10.781707999994978,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 100000,
+    "steps": 10,
+    "total_time_sec": 0.37376980000408366,
+    "ms_per_step": 37.376980000408366,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 200000,
+    "steps": 10,
+    "total_time_sec": 1.3406646999937948,
+    "ms_per_step": 134.06646999937948,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 500000,
+    "steps": 10,
+    "total_time_sec": 8.168765900016297,
+    "ms_per_step": 816.8765900016297,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 500,
+    "steps": 100,
+    "total_time_sec": 0.06529030000092462,
+    "ms_per_step": 0.6529030000092462,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 1000,
+    "steps": 100,
+    "total_time_sec": 0.07980850001331419,
+    "ms_per_step": 0.7980850001331419,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 5000,
+    "steps": 100,
+    "total_time_sec": 0.28792270002304576,
+    "ms_per_step": 2.8792270002304576,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 10000,
+    "steps": 100,
+    "total_time_sec": 0.5690430999966338,
+    "ms_per_step": 5.690430999966338,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 20000,
+    "steps": 100,
+    "total_time_sec": 1.075030500011053,
+    "ms_per_step": 10.75030500011053,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 50000,
+    "steps": 100,
+    "total_time_sec": 3.1103488000226207,
+    "ms_per_step": 31.103488000226207,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 100000,
+    "steps": 10,
+    "total_time_sec": 0.6222346000140533,
+    "ms_per_step": 62.22346000140533,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 200000,
+    "steps": 10,
+    "total_time_sec": 1.532506999996258,
+    "ms_per_step": 153.2506999996258,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 500000,
+    "steps": 10,
+    "total_time_sec": 3.526533500000369,
+    "ms_per_step": 352.6533500000369,
+    "success": true,
+    "error": null
+  }
+]

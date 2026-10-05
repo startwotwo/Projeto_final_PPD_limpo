@@ -1,0 +1,380 @@
+[
+  {
+    "backend": "gpu_persist",
+    "N": 500,
+    "steps": 100,
+    "total_time_sec": 0.007548500085249543,
+    "ms_per_step": 0.07548500085249543,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "N": 1000,
+    "steps": 100,
+    "total_time_sec": 0.011590800015255809,
+    "ms_per_step": 0.11590800015255809,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "N": 5000,
+    "steps": 100,
+    "total_time_sec": 0.03630949999205768,
+    "ms_per_step": 0.3630949999205768,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "N": 10000,
+    "steps": 100,
+    "total_time_sec": 0.07436820003204048,
+    "ms_per_step": 0.7436820003204048,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "N": 20000,
+    "steps": 100,
+    "total_time_sec": 0.23514109989628196,
+    "ms_per_step": 2.3514109989628196,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "N": 50000,
+    "steps": 100,
+    "total_time_sec": 1.0486479999963194,
+    "ms_per_step": 10.486479999963194,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "N": 100000,
+    "steps": 10,
+    "total_time_sec": 0.3700105999596417,
+    "ms_per_step": 37.00105999596417,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "N": 200000,
+    "steps": 10,
+    "total_time_sec": 1.3309484999626875,
+    "ms_per_step": 133.09484999626875,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "N": 350000,
+    "steps": 10,
+    "total_time_sec": 4.053325399989262,
+    "ms_per_step": 405.3325399989262,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "N": 500000,
+    "steps": 10,
+    "total_time_sec": 8.143137200037017,
+    "ms_per_step": 814.3137200037017,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "N": 1000000,
+    "steps": 3,
+    "total_time_sec": 9.635471400106326,
+    "ms_per_step": 3211.8238000354418,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "N": 2000000,
+    "steps": 3,
+    "total_time_sec": 38.476513399975374,
+    "ms_per_step": 12825.504466658458,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "N": 5000000,
+    "steps": 3,
+    "total_time_sec": 244.48428900004365,
+    "ms_per_step": 81494.76300001454,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "N": 500,
+    "steps": 100,
+    "total_time_sec": 0.06940750009380281,
+    "ms_per_step": 0.6940750009380281,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "N": 1000,
+    "steps": 100,
+    "total_time_sec": 0.0853973999619484,
+    "ms_per_step": 0.853973999619484,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "N": 5000,
+    "steps": 100,
+    "total_time_sec": 0.33317100000567734,
+    "ms_per_step": 3.3317100000567734,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "N": 10000,
+    "steps": 100,
+    "total_time_sec": 0.6566606000997126,
+    "ms_per_step": 6.566606000997126,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "N": 20000,
+    "steps": 100,
+    "total_time_sec": 1.3888129000551999,
+    "ms_per_step": 13.888129000551999,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "N": 50000,
+    "steps": 100,
+    "total_time_sec": 4.158459699945524,
+    "ms_per_step": 41.58459699945524,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "N": 100000,
+    "steps": 10,
+    "total_time_sec": 1.0458070000167936,
+    "ms_per_step": 104.58070000167936,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "N": 200000,
+    "steps": 10,
+    "total_time_sec": 1.9780377999413759,
+    "ms_per_step": 197.80377999413759,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "N": 350000,
+    "steps": 10,
+    "total_time_sec": 2.75731740007177,
+    "ms_per_step": 275.731740007177,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "N": 500000,
+    "steps": 10,
+    "total_time_sec": 4.33177229994908,
+    "ms_per_step": 433.177229994908,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "N": 1000000,
+    "steps": 3,
+    "total_time_sec": 2.3995336999651045,
+    "ms_per_step": 799.8445666550348,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "N": 2000000,
+    "steps": 3,
+    "total_time_sec": 5.039680500049144,
+    "ms_per_step": 1679.8935000163813,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "N": 5000000,
+    "steps": 3,
+    "total_time_sec": 15.081853999989107,
+    "ms_per_step": 5027.284666663036,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "N": 10000000,
+    "steps": 2,
+    "total_time_sec": 47.092273800168186,
+    "ms_per_step": 23546.136900084093,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "N": 10000000,
+    "steps": 1,
+    "total_time_sec": 325.011973900022,
+    "ms_per_step": 325011.973900022,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 500,
+    "steps": 100,
+    "total_time_sec": 0.07484729999987394,
+    "ms_per_step": 0.7484729999987394,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 1000,
+    "steps": 100,
+    "total_time_sec": 0.08578200000010838,
+    "ms_per_step": 0.8578200000010838,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 5000,
+    "steps": 100,
+    "total_time_sec": 0.3153492000001279,
+    "ms_per_step": 3.153492000001279,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 10000,
+    "steps": 100,
+    "total_time_sec": 0.33774510000012015,
+    "ms_per_step": 3.3774510000012015,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 20000,
+    "steps": 100,
+    "total_time_sec": 0.33605279999983395,
+    "ms_per_step": 3.3605279999983395,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 50000,
+    "steps": 100,
+    "total_time_sec": 0.5552462999999079,
+    "ms_per_step": 5.552462999999079,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 100000,
+    "steps": 10,
+    "total_time_sec": 0.09354579999990165,
+    "ms_per_step": 9.354579999990165,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 200000,
+    "steps": 10,
+    "total_time_sec": 0.1594998000000487,
+    "ms_per_step": 15.94998000000487,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 350000,
+    "steps": 10,
+    "total_time_sec": 0.2582994999997936,
+    "ms_per_step": 25.829949999979362,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 500000,
+    "steps": 10,
+    "total_time_sec": 0.3801668000000973,
+    "ms_per_step": 38.01668000000973,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 1000000,
+    "steps": 3,
+    "total_time_sec": 0.22045909999997093,
+    "ms_per_step": 73.48636666665698,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 2000000,
+    "steps": 3,
+    "total_time_sec": 0.4473782999998548,
+    "ms_per_step": 149.1260999999516,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 5000000,
+    "steps": 3,
+    "total_time_sec": 1.159353900000042,
+    "ms_per_step": 386.451300000014,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 10000000,
+    "steps": 3,
+    "total_time_sec": 2.176647900000262,
+    "ms_per_step": 725.5493000000873,
+    "success": true,
+    "error": null
+  }
+]

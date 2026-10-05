@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/*.mp4
+data/*.gif
+data/*.png
+!data/.gitkeep
+.ipynb_checkpoints/
+.venv312/
+# scripts locais de diagnóstico/teste (não versionados)
+scripts/validation/check_moon_phase.py
+scripts/validation/moon_curve.py
+scripts/validation/moon_ias15.py
+scripts/validation/moon_ias15_full.py
+scripts/validation/moon_err_decomp.py
+notebooks/

@@ -1,0 +1,8 @@
+numpy>=1.24
+matplotlib>=3.7
+numba>=0.58
+joblib>=1.3
+imageio-ffmpeg>=0.4  # fornece ffmpeg binário para mp4 sem instalar manualmente
+# GPU (Colab): descomente conforme ambiente
+# cupy-cuda12x  # NVIDIA T4 no Colab (CUDA 12)
+# mpi4py  # Fase 3 - no Windows precisa MS-MPI, no Colab apt-get

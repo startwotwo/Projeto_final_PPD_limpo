@@ -1,0 +1,128 @@
+[
+  {
+    "backend": "numba",
+    "N": 50000,
+    "steps": 3,
+    "total_time_sec": 1.6883842998649925,
+    "ms_per_step": 562.7947666216642,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "numba",
+    "N": 100000,
+    "steps": 2,
+    "total_time_sec": 4.945327800000086,
+    "ms_per_step": 2472.663900000043,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu",
+    "N": 200000,
+    "steps": 3,
+    "total_time_sec": 0.47588469996117055,
+    "ms_per_step": 158.6282333203902,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu",
+    "N": 500000,
+    "steps": 2,
+    "total_time_sec": 1.911950800102204,
+    "ms_per_step": 955.975400051102,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "N": 2000000,
+    "steps": 2,
+    "total_time_sec": 29.218355500139296,
+    "ms_per_step": 14609.177750069648,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh",
+    "N": 50000,
+    "steps": 3,
+    "total_time_sec": 0.6939004000741988,
+    "ms_per_step": 231.3001333580663,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh",
+    "N": 100000,
+    "steps": 2,
+    "total_time_sec": 0.9461745000444353,
+    "ms_per_step": 473.08725002221763,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_par",
+    "N": 100000,
+    "steps": 3,
+    "total_time_sec": 0.31973919994197786,
+    "ms_per_step": 106.57973331399262,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_par",
+    "N": 200000,
+    "steps": 2,
+    "total_time_sec": 0.4670351999811828,
+    "ms_per_step": 233.5175999905914,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_morton",
+    "N": 100000,
+    "steps": 3,
+    "total_time_sec": 0.32494469988159835,
+    "ms_per_step": 108.31489996053278,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_morton",
+    "N": 200000,
+    "steps": 2,
+    "total_time_sec": 0.4511168000753969,
+    "ms_per_step": 225.55840003769845,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "N": 10000000,
+    "steps": 2,
+    "total_time_sec": 47.092273800168186,
+    "ms_per_step": 23546.136900084093,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "mpi_manual",
+    "N": 50000,
+    "steps": 3,
+    "total_time_sec": null,
+    "ms_per_step": null,
+    "success": false,
+    "error": "[WinError 10061] Nenhuma conex\u00e3o p\u00f4de ser feita porque a m\u00e1quina de destino as recusou ativamente"
+  },
+  {
+    "backend": "gpu_persist",
+    "N": 10000000,
+    "steps": 1,
+    "total_time_sec": 325.011973900022,
+    "ms_per_step": 325011.973900022,
+    "success": true,
+    "error": null
+  }
+]

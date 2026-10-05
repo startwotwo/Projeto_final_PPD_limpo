@@ -1,0 +1,152 @@
+[
+  {
+    "backend": "bh_gpu_full",
+    "N": 500,
+    "steps": 1,
+    "total_time_sec": 0.0006174999980430584,
+    "ms_per_step": 0.6174999980430584,
+    "success": true,
+    "error": null,
+    "note": "processo fresco dedicado, mediana de 5 trials"
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 1000,
+    "steps": 1,
+    "total_time_sec": 0.0008784000019659288,
+    "ms_per_step": 0.8784000019659288,
+    "success": true,
+    "error": null,
+    "note": "processo fresco dedicado, mediana de 5 trials"
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 5000,
+    "steps": 1,
+    "total_time_sec": 0.001974900002096547,
+    "ms_per_step": 1.9749000020965468,
+    "success": true,
+    "error": null,
+    "note": "processo fresco dedicado, mediana de 3 trials"
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 10000,
+    "steps": 1,
+    "total_time_sec": 0.0033476999997219536,
+    "ms_per_step": 3.3476999997219536,
+    "success": true,
+    "error": null,
+    "note": "processo fresco dedicado, mediana de 3 trials"
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 20000,
+    "steps": 1,
+    "total_time_sec": 0.0032885000000533182,
+    "ms_per_step": 3.288500000053318,
+    "success": true,
+    "error": null,
+    "note": "processo fresco dedicado, mediana de 3 trials"
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 50000,
+    "steps": 1,
+    "total_time_sec": 0.003857599996990757,
+    "ms_per_step": 3.857599996990757,
+    "success": true,
+    "error": null,
+    "note": "processo fresco dedicado, mediana de 3 trials"
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 100000,
+    "steps": 1,
+    "total_time_sec": 0.005631299998640316,
+    "ms_per_step": 5.631299998640316,
+    "success": true,
+    "error": null,
+    "note": "processo fresco dedicado, mediana de 3 trials"
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 200000,
+    "steps": 1,
+    "total_time_sec": 0.009776099999726284,
+    "ms_per_step": 9.776099999726284,
+    "success": true,
+    "error": null,
+    "note": "processo fresco dedicado, mediana de 3 trials"
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 350000,
+    "steps": 1,
+    "total_time_sec": 0.014891499999066582,
+    "ms_per_step": 14.891499999066582,
+    "success": true,
+    "error": null,
+    "note": "processo fresco dedicado, mediana de 3 trials"
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 500000,
+    "steps": 1,
+    "total_time_sec": 0.020291699998779222,
+    "ms_per_step": 20.291699998779222,
+    "success": true,
+    "error": null,
+    "note": "processo fresco dedicado, mediana de 3 trials"
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 1000000,
+    "steps": 1,
+    "total_time_sec": 0.037834800001292024,
+    "ms_per_step": 37.834800001292024,
+    "success": true,
+    "error": null,
+    "note": "processo fresco dedicado, mediana de 3 trials"
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 2000000,
+    "steps": 1,
+    "total_time_sec": 0.07823709999865969,
+    "ms_per_step": 78.23709999865969,
+    "success": true,
+    "error": null,
+    "note": "processo fresco dedicado, mediana de 3 trials"
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 5000000,
+    "steps": 1,
+    "total_time_sec": 0.17939140000089537,
+    "ms_per_step": 179.39140000089537,
+    "success": true,
+    "error": null,
+    "note": "processo fresco dedicado, mediana de 3 trials"
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 10000000,
+    "steps": 1,
+    "total_time_sec": 0.3433416000007128,
+    "ms_per_step": 343.3416000007128,
+    "success": true,
+    "error": null,
+    "note": "processo fresco dedicado, mediana de 3 trials"
+  },
+  {
+    "backend": "bh_gpu_full",
+    "N": 20000000,
+    "steps": 1,
+    "total_time_sec": 16.8845333499994,
+    "ms_per_step": 16884.5333499994,
+    "success": true,
+    "error": null,
+    "note": "processo fresco dedicado, mediana de 2 trials"
+  }
+]

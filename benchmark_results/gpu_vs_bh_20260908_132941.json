@@ -1,0 +1,392 @@
+[
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 500,
+    "steps": 100,
+    "total_time_sec": 0.008028600015677512,
+    "ms_per_step": 0.08028600015677512,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 1000,
+    "steps": 100,
+    "total_time_sec": 0.013423500000499189,
+    "ms_per_step": 0.1342350000049919,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 5000,
+    "steps": 100,
+    "total_time_sec": 0.03637170000001788,
+    "ms_per_step": 0.3637170000001788,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 10000,
+    "steps": 100,
+    "total_time_sec": 0.07709520001662895,
+    "ms_per_step": 0.7709520001662895,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 20000,
+    "steps": 100,
+    "total_time_sec": 0.2404464999854099,
+    "ms_per_step": 2.404464999854099,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 50000,
+    "steps": 100,
+    "total_time_sec": 1.0863650999963284,
+    "ms_per_step": 10.863650999963284,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 100000,
+    "steps": 10,
+    "total_time_sec": 0.37438329998985864,
+    "ms_per_step": 37.438329998985864,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 200000,
+    "steps": 10,
+    "total_time_sec": 1.4156844000099227,
+    "ms_per_step": 141.56844000099227,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 350000,
+    "steps": 10,
+    "total_time_sec": 4.129441199998837,
+    "ms_per_step": 412.9441199998837,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 500000,
+    "steps": 10,
+    "total_time_sec": 8.354947499989066,
+    "ms_per_step": 835.4947499989066,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 1000000,
+    "steps": 3,
+    "total_time_sec": 9.866991000017151,
+    "ms_per_step": 3288.997000005717,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 2000000,
+    "steps": 3,
+    "total_time_sec": 38.93764039999223,
+    "ms_per_step": 12979.213466664078,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "gpu_persist",
+    "tag": "cupy_fast_persist",
+    "N": 5000000,
+    "steps": 3,
+    "total_time_sec": 245.28276890001143,
+    "ms_per_step": 81760.92296667048,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 500,
+    "steps": 100,
+    "total_time_sec": 0.0684346999914851,
+    "ms_per_step": 0.684346999914851,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 1000,
+    "steps": 100,
+    "total_time_sec": 0.09375400000135414,
+    "ms_per_step": 0.9375400000135414,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 5000,
+    "steps": 100,
+    "total_time_sec": 0.3289617999980692,
+    "ms_per_step": 3.289617999980692,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 10000,
+    "steps": 100,
+    "total_time_sec": 0.6679090000106953,
+    "ms_per_step": 6.679090000106953,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 20000,
+    "steps": 100,
+    "total_time_sec": 1.297077099996386,
+    "ms_per_step": 12.970770999963861,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 50000,
+    "steps": 100,
+    "total_time_sec": 3.40698010000051,
+    "ms_per_step": 34.0698010000051,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 100000,
+    "steps": 10,
+    "total_time_sec": 0.6949009999807458,
+    "ms_per_step": 69.49009999807458,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 200000,
+    "steps": 10,
+    "total_time_sec": 1.6693490999750793,
+    "ms_per_step": 166.93490999750793,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 350000,
+    "steps": 10,
+    "total_time_sec": 2.7034979999880306,
+    "ms_per_step": 270.34979999880306,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 500000,
+    "steps": 10,
+    "total_time_sec": 3.935584899998503,
+    "ms_per_step": 393.5584899998503,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 1000000,
+    "steps": 3,
+    "total_time_sec": 2.3788758000009693,
+    "ms_per_step": 792.9586000003231,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 2000000,
+    "steps": 3,
+    "total_time_sec": 5.000242399983108,
+    "ms_per_step": 1666.747466661036,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu",
+    "tag": "bh_gpu(theta=0.9)",
+    "N": 5000000,
+    "steps": 3,
+    "total_time_sec": 14.421266599994851,
+    "ms_per_step": 4807.088866664951,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 500,
+    "steps": 100,
+    "total_time_sec": 0.07085869999718852,
+    "ms_per_step": 0.7085869999718852,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 1000,
+    "steps": 100,
+    "total_time_sec": 0.08426659999531694,
+    "ms_per_step": 0.8426659999531694,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 5000,
+    "steps": 100,
+    "total_time_sec": 4.24977769999532,
+    "ms_per_step": 42.4977769999532,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 10000,
+    "steps": 100,
+    "total_time_sec": 4.626726799993776,
+    "ms_per_step": 46.26726799993776,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 20000,
+    "steps": 100,
+    "total_time_sec": 3.9736753000179306,
+    "ms_per_step": 39.736753000179306,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 50000,
+    "steps": 100,
+    "total_time_sec": 5.172703899996122,
+    "ms_per_step": 51.72703899996122,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 100000,
+    "steps": 10,
+    "total_time_sec": 0.5175051999976858,
+    "ms_per_step": 51.750519999768585,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 200000,
+    "steps": 10,
+    "total_time_sec": 0.5224537999893073,
+    "ms_per_step": 52.24537999893073,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 350000,
+    "steps": 10,
+    "total_time_sec": 0.6757876999909058,
+    "ms_per_step": 67.57876999909058,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 500000,
+    "steps": 10,
+    "total_time_sec": 0.7556951000005938,
+    "ms_per_step": 75.56951000005938,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 1000000,
+    "steps": 3,
+    "total_time_sec": 0.3556712999998126,
+    "ms_per_step": 118.55709999993753,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 2000000,
+    "steps": 3,
+    "total_time_sec": 0.5311527000158094,
+    "ms_per_step": 177.0509000052698,
+    "success": true,
+    "error": null
+  },
+  {
+    "backend": "bh_gpu_full",
+    "tag": "bh_gpu_full",
+    "N": 5000000,
+    "steps": 3,
+    "total_time_sec": 1.1773931000207085,
+    "ms_per_step": 392.4643666735695,
+    "success": true,
+    "error": null
+  }
+]

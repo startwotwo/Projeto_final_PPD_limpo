@@ -1,0 +1,4 @@
+[
+  {"host": "localhost", "threads": 28},
+  {"host": "200.18.98.132", "port": 5000, "threads": 8}
+]

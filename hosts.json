@@ -1,0 +1,4 @@
+[
+  {"host": "localhost", "threads": 28, "python": ".venv312/Scripts/python"},
+  {"host": "200.18.98.132", "port": 2222, "user": "user", "threads": 8, "python": "~/projetoPPD/.venv/bin/python"}
+]
